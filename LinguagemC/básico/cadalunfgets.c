@@ -26,5 +26,5 @@ int main() {
     printf("\nNome: %s", nome);
     printf("\nIdade: %d", idade);
 
-return 0;
+    return 0;
 }
