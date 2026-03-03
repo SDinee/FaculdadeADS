@@ -1,5 +1,4 @@
 
 print ('1 - Calculadora')
 
-print (input('Escolha uma opção:'))
-teste
+opcao = (input('Escolha uma opção:'))
