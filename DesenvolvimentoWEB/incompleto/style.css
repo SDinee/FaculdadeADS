@@ -1,0 +1,26 @@
+/*controla o layout*/
+.menu{
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    padding: 10px;
+
+}
+
+/*modifica os menus*/
+.menu a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    transition: 0.4s ease;
+}
+
+/*qujando mouse sobre o nav*/
+.menu a:hover{
+    transform: scale(1.1);
+    background: #00000025;
+    border: 1px solid #00000086;
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    
+}
