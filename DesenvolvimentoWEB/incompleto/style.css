@@ -4,6 +4,7 @@
     justify-content: space-evenly ;
     align-items: center;
     padding: 1%;
+    cursor: pointer;
 
 }
 
@@ -25,12 +26,18 @@
     
 }
 
+.menu a:active{
+    transform: scale(2.1);
+}
+
+
 
 .container{
     display: flex;             /* ativa flexbox */
     justify-content: center;   /* centraliza horizontalmente */
     gap: 10%;                 /* espaço entre as imagens */
     flex-wrap: wrap;           /* permite quebrar linha se a tela for pequena */
+
 }
 
 .banner{
@@ -38,6 +45,7 @@
     transition: transform 0.5s ease;
     border-radius: 3%;
     border: 1px solid #00000086;
+    cursor: pointer;
 }
 
 
@@ -45,4 +53,8 @@
     transform: scale(0.93);
     box-shadow: 0 0 15px 10px #5f5f5f25;
 
+}
+
+.banner:active{
+    transform: scale(2.1);
 }
