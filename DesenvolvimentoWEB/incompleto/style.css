@@ -8,6 +8,12 @@
 
 }
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(211, 247, 253);
+    color: rgb(0, 0, 0);
+}
+
 /*modifica os menus*/
 .menu a{
     text-decoration: none;
