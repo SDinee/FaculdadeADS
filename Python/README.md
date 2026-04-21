@@ -17,6 +17,7 @@ Este diretório contém meus estudos iniciais em Python durante a graduação em
 * Criação de uma calculadora simples
 * Uso de menus interativos
 * Organização do código em mais de um arquivo
+* Aperfeiçoamento gradual com funções
 
 ## 🎯 Objetivo
 
