@@ -1,0 +1,4 @@
+write com with 1
+write com with 2
+hellow world
+python é vida
