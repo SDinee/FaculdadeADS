@@ -1,4 +1,4 @@
-arquivo = open ('C:/Users/DiNe/Desktop/FaculdadeADS/Python/DesenvolvimentoRapido/manipulandotexto/simplesopen.txt')
+arquivo = open ('C:/Users/kingg/Desktop/FaculdadeADS/Python/DesenvolvimentoRapido/manipulandotexto/simplesopen.txt')
 
 print('nome do arquivo:', arquivo.name)
 print('tamanho em bytes:', arquivo.tell)
