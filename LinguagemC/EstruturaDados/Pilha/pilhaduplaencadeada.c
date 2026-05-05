@@ -20,9 +20,9 @@ no *crialde(int n){
         p->elink = ini;
         p->dlink = NULL;
         
-        if (ini != NULL)
+        if (ini != NULL){
             ini->dlink = p;
-            
+        }
         ini = p;
     }
     return ini;
