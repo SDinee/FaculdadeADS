@@ -17,10 +17,11 @@ no *crialde(int n){
         p->dado = valor;
         p->elink = NULL;
         p->dlink = ini;
-        if (ini != NULL)
+        if (ini != NULL){
             ini->elink=p;
-        else
+        }else{
             aux = p;
+        }
         ini = p;
     }
     return aux;
