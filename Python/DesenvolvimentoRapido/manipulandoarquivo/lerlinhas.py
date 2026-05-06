@@ -1,4 +1,4 @@
-def linhas(camonho_arquivo: str, modo: str) -> list:
+def linhas(caminho_arquivo: str, modo: str) -> list:
     arquivo = open(caminho_arquivo, modo)
     linhas = arquivo.readlines()
     arquivo.close()
