@@ -1,79 +1,94 @@
 # 🌐 Desenvolvimento Web
 
-Este diretório reúne meus primeiros estudos em desenvolvimento web utilizando HTML e CSS, desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas.
+Este repositório reúne meus primeiros projetos e estudos em desenvolvimento web, utilizando **HTML5** e **CSS3**, desenvolvidos durante a graduação em **Análise e Desenvolvimento de Sistemas**.
+
+---
 
 ## 🎯 Objetivo
 
-Praticar os fundamentos da criação de páginas web, compreendendo a estrutura HTML e os conceitos iniciais de estilização com CSS.
+Consolidar os fundamentos da criação de páginas web, com foco em:
 
-## 📂 Estrutura dos estudos
+- Estruturação semântica com HTML  
+- Estilização e layout com CSS  
+- Evolução prática através de projetos reais  
 
-Os conteúdos estão organizados em três partes:
+---
 
-### 📁 Primeiro Site (HTML puro)
+## 📂 Estrutura do Projeto
 
-Primeiro projeto desenvolvido em aula, utilizando apenas HTML.
+Os estudos estão organizados em dois projetos principais:
 
-**Conceitos praticados:**
+### 📁 Primeiro Site (HTML + CSS)
 
-* Estrutura básica de uma página HTML
-* Uso de tags (`h1`, `p`, `img`, `a`, `ul`, `table`)
-* Inserção de imagens e links
-* Organização de conteúdo
+Meu primeiro projeto web, inicialmente desenvolvido apenas com HTML e posteriormente evoluído com CSS.
 
-**Aprimoramentos realizados posteriormente:**
+#### 🔹 Conceitos aplicados:
+- Estrutura básica de páginas HTML  
+- Uso de tags (`h1`, `p`, `img`, `a`, `ul`, `table`)  
+- Inserção de imagens e links  
+- Organização de conteúdo  
 
-* Adição de CSS para estilização
-* Criação de menu de navegação com Flexbox
-* Aplicação de efeitos visuais (`hover`, `transform`, `box-shadow`)
-* Melhoria na organização visual e layout da página
+#### 🔹 Evoluções implementadas:
+- Estilização com CSS  
+- Criação de menu de navegação com **Flexbox**  
+- Aplicação de efeitos visuais (`hover`, `transform`, `box-shadow`)  
+- Melhoria no layout e na experiência visual  
+
+> 💡 Projeto importante para entender evolução prática: de estrutura simples para uma interface mais organizada.
 
 ---
 
 ### 📁 Pet Show (HTML + CSS)
 
-Projeto mais completo com múltiplas páginas, aplicando HTML e CSS.
+Projeto mais completo e estruturado, com múltiplas páginas e maior foco em layout e experiência do usuário.
 
-**Conceitos praticados:**
+#### 🔹 Conceitos aplicados:
+- Navegação entre páginas  
+- Uso de classes e organização de CSS  
+- Estruturação mais limpa de layout  
+- Estilização de componentes  
 
-* Navegação entre páginas
-* Estilização com CSS
-* Uso de classes
-* Efeitos visuais (`hover`, `transform`, `transition`)
-* Estrutura de layout mais organizada
+#### 🔹 Recursos visuais:
+- Efeitos (`hover`, `transform`, `transition`)  
+- Melhor organização visual  
+- Separação de responsabilidades entre HTML e CSS  
 
-> Observação: projeto em desenvolvimento.
+> ⚠️ **Status:** Em desenvolvimento contínuo  
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-* HTML5
-* CSS3
+- HTML5  
+- CSS3  
 
 ---
 
 ## 🚀 Aprendizados
 
-Durante esses estudos, foram desenvolvidas habilidades como:
+Durante esses projetos, desenvolvi habilidades como:
 
-* Estruturação de páginas web
-* Uso de elementos HTML
-* Estilização com CSS
-* Organização de arquivos
-* Criação de layouts simples
-* Experimentação e prática contínua
+- Estruturação de páginas web  
+- Evolução de projetos (refatoração e melhoria contínua)  
+- Estilização com CSS  
+- Criação de layouts simples com Flexbox  
+- Organização de arquivos e código  
+- Pensamento prático na construção de interfaces  
 
 ---
 
 ## 📌 Observações
 
-Este conteúdo representa minha fase inicial no desenvolvimento web, incluindo exercícios feitos em aula e práticas realizadas de forma independente para reforçar o aprendizado.
+Este repositório representa minha fase inicial no desenvolvimento web, mas já demonstra:
 
-Ainda estou desenvolvendo mais autonomia com CSS, praticando a criação de layouts e estilos de forma gradual.
+- Evolução progressiva dos projetos  
+- Aplicação prática dos conceitos aprendidos  
+- Melhoria contínua na organização e no design  
+
+Atualmente, sigo aprofundando meus conhecimentos em CSS e avançando para layouts mais complexos.
 
 ---
 
 ## 👨‍💻 Autor
 
-Sidne
+**Sidne**
