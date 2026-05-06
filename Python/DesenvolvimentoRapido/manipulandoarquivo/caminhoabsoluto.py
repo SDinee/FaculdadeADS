@@ -33,7 +33,9 @@ def ler_arquivo(caminho: str) -> None:
             print("-----------------------------") 
             return
     except FileNotFoundError:
-        print(f"[Erro] Arquivo não encontrado")
+        print(f"[Erro] Arquivo não encontrado para leitura {caminho}")
+    except Exception as e:
+        print(f"[Erro] Falha ao ler o arquivo: {e}")
 
 def apagar_arquivo(caminho: str) -> None:
     """Remove o arquivo do sistema operacional. """
