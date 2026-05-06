@@ -1,41 +1,138 @@
-# 📚 Repositório de Estudos - Análise e Desenvolvimento de Sistemas
+# 📚 Repositório de Estudos — Análise e Desenvolvimento de Sistemas
 
-Este repositório reúne meus estudos, práticas e projetos desenvolvidos ao longo da graduação em Análise e Desenvolvimento de Sistemas.
+Este repositório reúne minha jornada de aprendizado em tecnologia, com projetos, práticas e estudos desenvolvidos durante a graduação e também de forma independente.
+
+Aqui você encontrará desde fundamentos de programação até aplicações práticas, organizadas de forma progressiva para acompanhar minha evolução como desenvolvedor.
+
+---
 
 ## 🎯 Objetivo
 
-Organizar e consolidar o conhecimento adquirido durante a faculdade, acompanhando minha evolução nas principais áreas da programação.
+- Consolidar conhecimentos técnicos  
+- Documentar minha evolução na área de tecnologia  
+- Praticar conceitos através de projetos reais  
+- Desenvolver autonomia fora do ambiente acadêmico  
 
-## 🧠 Áreas de estudo
+---
 
-### 🐍 Python
+## 🗺️ Mapa do Repositório
 
-Estudos voltados para lógica de programação, funções, estruturas de controle e manipulação básica de arquivos.
+O conteúdo está organizado por áreas de estudo:
 
-### ⚙️ C
+---
 
-Aprendizado dos fundamentos da linguagem, incluindo estruturas condicionais, repetição, vetores e introdução a estruturas de dados.
+### 🚀 Carreira Solo
+
+📁 Estudos independentes e iniciativas próprias  
+
+Espaço dedicado ao aprendizado fora da faculdade, onde exploro novas tecnologias, cursos e aplicações práticas.
+
+**Você encontrará:**
+- Anotações de cursos  
+- Projetos experimentais  
+- Estudos com Inteligência Artificial  
+- Testes com ferramentas e conceitos do mercado  
+
+> 💡 Representa minha autonomia e busca ativa por evolução na área tech.
+
+---
 
 ### 🌐 Desenvolvimento Web
 
-Criação de páginas utilizando HTML e CSS, com foco em estruturação, navegação e estilização.
+📁 Projetos com HTML e CSS  
 
-### 🗄️ Banco de Dados
+Área focada nos fundamentos do desenvolvimento web e evolução prática de projetos.
 
-Modelagem relacional e uso de SQL com PostgreSQL, incluindo criação de tabelas, relacionamentos e regras de integridade.
+**Projetos incluídos:**
 
-## 🗂️ Organização do repositório
+- **Primeiro Site (HTML + CSS)**  
+  Projeto inicial que evoluiu de HTML puro para uma interface estilizada com CSS e uso de Flexbox.
 
-Cada pasta contém exemplos práticos e um README específico com mais detalhes sobre os conteúdos estudados.
+- **Pet Show (HTML + CSS)**  
+  Projeto mais estruturado, com múltiplas páginas, navegação e aplicação de efeitos visuais.
+
+**Principais aprendizados:**
+- Estruturação de páginas  
+- Estilização com CSS  
+- Layout com Flexbox  
+- Organização visual e experiência do usuário  
+
+---
+
+### 🐍 Python
+
+📁 Lógica de programação e fundamentos  
+
+Estudos voltados para construção de base lógica utilizando Python.
+
+**Conteúdos trabalhados:**
+- Estruturas condicionais e de repetição  
+- Funções  
+- Listas  
+- Manipulação de arquivos  
+- Organização de código  
+
+**Práticas:**
+- Calculadora simples  
+- Menus interativos  
+- Separação de código em múltiplos arquivos  
+
+---
+
+### ⚙️ Linguagem C
+
+📁 Fundamentos e estruturas de dados  
+
+Base sólida em lógica de programação utilizando C.
+
+**Conteúdos trabalhados:**
+- Estruturas condicionais e de repetição  
+- Vetores  
+- Funções  
+- Uso de `struct`  
+
+**Introdução a estruturas de dados:**
+- Filas  
+- Pilhas  
+- Listas  
+- Árvore
+- Algoritmo de Ordenação
+
+> ⚠️ Estudo ainda em nível fundamental, com evolução planejada.
+
+---
+
+## 🧠 Como navegar
+
+Cada pasta contém:
+
+- Projetos práticos em aulas   
+- Um README próprio com explicações detalhadas  
+
+---
 
 ## 🚀 Evolução
 
-Este repositório será atualizado continuamente conforme avanço nos estudos, incluindo novos projetos e aprofundamento dos conceitos.
+Este repositório está em constante atualização, refletindo:
+
+- Minha evolução técnica  
+- Novos aprendizados  
+- Projetos mais complexos ao longo do tempo  
+
+---
 
 ## 📌 Observações
 
-Todo o conteúdo aqui tem fins educacionais e representa meu progresso durante a graduação.
+Este repositório representa:
+
+- Minha base na área de tecnologia  
+- Meu processo de aprendizado contínuo  
+- Minha transição de iniciante para níveis mais avançados  
+
+Alguns conteúdos ainda estão em desenvolvimento, pois fazem parte do meu processo de evolução.
+
+---
 
 ## 👨‍💻 Autor
 
-Sidne
+**Sidne**
