@@ -37,31 +37,32 @@ button:hover {
  cursor: pointer;
 }
 
-.menu{
+.menu ul {
   display: flex;
-  list-style-type: none;
-  padding: 12px;
+  list-style: none;
+  padding: 7px;
   background-color: #bbb9b9;
   border-radius: 7px;
   justify-content: center;
   align-items: center;
+  gap: 10px;
 }
 
-.menu a{
+.menu a {
   text-decoration: none;
-  color: #000000;
+  color: #000;
   font-weight: bold;
   padding: 10px 15px;
+  display: block;
 }
 
-.menu :hover {
-  color: #000000;
-  background-color: #ffffff;
+.menu a:hover {
+  color: #000;
+  background-color: #fff;
   border-radius: 7px;
   transform: scale(1.07);
   box-shadow: 0 0 15px 5px #00000025;
-
-} 
+}
 
 </style>
 
@@ -69,9 +70,11 @@ button:hover {
 <body>
 
 <nav class="menu">
-  <li><a href="#home">Inicio</a></li>
-  <li><a href="#news">Novidades</a></li>
-  <li><a href="#about">Sobre</a></li>
+  <ul>
+    <li><a href="#home">Inicio</a></li>
+    <li><a href="#news">Novidades</a></li>
+    <li><a href="#about">Sobre</a></li>
+  </ul>
 </nav>
   
 <h1>Plataforma de vídeos</h1>
