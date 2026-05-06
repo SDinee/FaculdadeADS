@@ -77,3 +77,4 @@ if __name__ == "__main__":
     print("\n")
     meu_dicionario.remover_palavra("rápido")
     meu_dicionario.remover_palavra("inteligente") # Tentando remover o que não existe
+    meu_dicionario.exibir_todos()
