@@ -21,6 +21,13 @@ Primeiro projeto desenvolvido em aula, utilizando apenas HTML.
 * Inserção de imagens e links
 * Organização de conteúdo
 
+**Aprimoramentos realizados posteriormente:**
+
+* Adição de CSS para estilização
+* Criação de menu de navegação com Flexbox
+* Aplicação de efeitos visuais (`hover`, `transform`, `box-shadow`)
+* Melhoria na organização visual e layout da página
+
 ---
 
 ### 📁 Pet Show (HTML + CSS)
@@ -36,18 +43,6 @@ Projeto mais completo com múltiplas páginas, aplicando HTML e CSS.
 * Estrutura de layout mais organizada
 
 > Observação: projeto em desenvolvimento.
-
----
-
-### 📁 Treinos
-
-Arquivos simples utilizados para prática e experimentação.
-
-**Inclui:**
-
-* Testes com HTML
-* Estilização básica com CSS
-* Exercícios para fixação dos conceitos
 
 ---
 
