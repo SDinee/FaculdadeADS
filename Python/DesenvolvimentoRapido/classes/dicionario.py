@@ -66,7 +66,7 @@ class DicionarioDeSinonimos:
             print("-------------------------")
 
 if __name__ == "__main__":
-
+    # instanciando o objeto
     meu_dicionario = DicionarioDeSinonimos()
     meu_dicionario.adicionar_palavra("feliz", [" alegre ", " contente ", " satisfeito "])
 
