@@ -28,3 +28,4 @@ if opcao == '1':
 #Função sum() para somar os números da lista
     resultado = sum(numeros)
     print(f'O resultado da soma de {numeros} é: {resultado}')
+    
