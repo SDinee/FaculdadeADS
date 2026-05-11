@@ -59,26 +59,6 @@ Espaço dedicado ao aprendizado fora da faculdade, onde exploro novas tecnologia
 
 ---
 
-### 🐍 Python
-
-📁 Lógica de programação e fundamentos  
-
-Estudos voltados para construção de base lógica utilizando Python.
-
-**Conteúdos trabalhados:**
-- Estruturas condicionais e de repetição  
-- Funções  
-- Listas  
-- Manipulação de arquivos  
-- Organização de código  
-
-**Práticas:**
-- Calculadora simples  
-- Menus interativos  
-- Separação de código em múltiplos arquivos  
-
----
-
 ### ⚙️ Linguagem C
 
 📁 Fundamentos e estruturas de dados  
@@ -99,6 +79,47 @@ Base sólida em lógica de programação utilizando C.
 - Algoritmo de Ordenação
 
 > ⚠️ Estudo ainda em nível fundamental, com evolução planejada.
+
+---
+
+### 🐍 Python
+
+📁 Lógica de programação e fundamentos  
+
+Estudos voltados para construção de base lógica utilizando Python.
+
+**Conteúdos trabalhados:**
+- Estruturas condicionais e de repetição  
+- Funções  
+- Listas  
+- Manipulação de arquivos  
+- Uso de Classes
+- Organização de código  
+
+**Práticas:** 
+- Menus interativos  
+- Separação de código em múltiplos arquivos  
+
+---
+
+### 🗄️ SQL
+
+📁 Modelagem e banco de dados relacionais  
+
+Estudos focados em estruturação de bancos de dados e relacionamento entre tabelas.
+
+**Conteúdos trabalhados:**
+- Criação de tabelas  
+- `PRIMARY KEY` e `FOREIGN KEY`  
+- Relacionamentos entre entidades  
+- Restrições (`NOT NULL`, `UNIQUE`, `CHECK`)  
+- Regras de integridade (`ON DELETE`)  
+- Inserção de dados com `INSERT INTO`  
+- Consultas relacionais iniciais  
+
+**Práticas realizadas:**
+- Sistema simples de biblioteca  
+- Relacionamento entre livros e empréstimos  
 
 ---
 
