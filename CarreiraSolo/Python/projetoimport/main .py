@@ -7,10 +7,10 @@ opcao = input('Escolha uma opção: ').strip()
 
 #importando o arquivo calculadora.py  (não precisa de .py)
 if opcao == '1':
-    import calculadora
+    import CarreiraSolo.Python.projetoimport.calculadora as calculadora
 
 elif opcao == '2':
-    import lista
+    import CarreiraSolo.Python.projetoimport.lista as lista
 
 else:
     print ('Opção inválida')
