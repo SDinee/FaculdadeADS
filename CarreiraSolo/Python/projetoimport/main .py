@@ -15,10 +15,11 @@ while True:
     opcao = input('Escolha uma opção: ').strip()
 
 
-    
+  # Chama a função menu do módulo calculadora para iniciar a calculadora.  
     if opcao == '1':
         calculadora.menu()
 
+# Chama a função menu do módulo lista para iniciar a lista.
     elif opcao == '2':
         lista.menu()
 
