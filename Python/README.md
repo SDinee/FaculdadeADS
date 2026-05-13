@@ -11,6 +11,7 @@ Este diretório contém meus estudos iniciais em Python durante a graduação em
 * Uso de listas
 * Importação de arquivos (`import`)
 * Leitura e escrita em arquivos `.txt`
+* Criações de classes e uso de funções
 
 ## 🧪 Práticas realizadas
 
