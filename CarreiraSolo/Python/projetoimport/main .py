@@ -1,17 +1,21 @@
-print ('1 - Calculadora')
-print ('2 - criar uma lista')
+import calculadora
+import lista
+
+while True:
+    print ('1 - Calculadora')
+    print ('2 - criar uma lista')
 
 
-opcao = input('Escolha uma opção: ').strip()
+    opcao = input('Escolha uma opção: ').strip()
 
 
-#importando o arquivo calculadora.py  (não precisa de .py)
-if opcao == '1':
-    import CarreiraSolo.Python.projetoimport.calculadora as calculadora
+    #importando o arquivo calculadora.py  (não precisa de .py)
+    if opcao == '1':
+        calculadora.executar()
 
-elif opcao == '2':
-    import CarreiraSolo.Python.projetoimport.lista as lista
+    elif opcao == '2':
+        lista.executar()
 
-else:
-    print ('Opção inválida')
+    else:
+        print ('Opção inválida')
     
