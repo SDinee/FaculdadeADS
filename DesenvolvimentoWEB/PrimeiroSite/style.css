@@ -42,3 +42,22 @@ button:hover {
   transform: scale(1.2);
 }
 
+.menu2{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.menu2 a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  display: block;
+  transition: all 0.3s ease;
+}
+
+.menu2 a:hover {
+  color: rgb(0, 60, 255);
+  border-radius: 7px;
+  transform: scale(1.2);
+}
