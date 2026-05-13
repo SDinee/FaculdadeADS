@@ -14,7 +14,7 @@ def divisao(a, b):
         return 'Erro: Divisão por zero não é permitida.'
 
 
-def executar():
+def menu():
     while True:
         print('=========================================')
         print('---------Bem-vindo a calculadora---------')
