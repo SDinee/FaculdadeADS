@@ -17,6 +17,8 @@ Este diretório reúne meus estudos em linguagem C, desenvolvidos durante a grad
 * Listas
 * Pilhas
 * Uso de `struct`
+* Uso de Árvore
+* Algoritmos de Ordenação
 
 > Observação: os conceitos de estruturas de dados foram estudados em aula, ainda sem aprofundamento prático avançado.
 
