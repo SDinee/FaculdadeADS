@@ -46,7 +46,7 @@ Espaço dedicado ao aprendizado fora da faculdade, onde exploro novas tecnologia
 **Projetos incluídos:**
 
 - **Primeiro Site (HTML + CSS)**  
-  Projeto inicial que evoluiu de HTML puro para uma interface estilizada com CSS e uso de Flexbox.
+  Projeto inicial que evoluiu de HTML puro para uma interface estilizada com CSS.
 
 - **Pet Show (HTML + CSS)**  
   Projeto mais estruturado, com múltiplas páginas, navegação e aplicação de efeitos visuais.
