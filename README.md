@@ -66,17 +66,18 @@ Espaço dedicado ao aprendizado fora da faculdade, onde exploro novas tecnologia
 Base sólida em lógica de programação utilizando C.
 
 **Conteúdos trabalhados:**
-- Estruturas condicionais e de repetição  
-- Vetores  
-- Funções  
-- Uso de `struct`  
+- Estruturas condicionais (`if`, `switch`)
+- Estruturas de repetição (`for`, `while`)
+- Vetores (arrays)
+- Funções básicas 
 
 **Introdução a estruturas de dados:**
-- Filas  
-- Pilhas  
-- Listas  
-- Árvore
-- Algoritmo de Ordenação
+- filas 
+- Listas
+- Pilhas
+- Uso de `struct`
+- Uso de Árvore
+- Algoritmos de Ordenação
 
 > ⚠️ Estudo ainda em nível fundamental, com evolução planejada.
 
@@ -89,14 +90,16 @@ Base sólida em lógica de programação utilizando C.
 Estudos voltados para construção de base lógica utilizando Python.
 
 **Conteúdos trabalhados:**
-- Estruturas condicionais e de repetição  
-- Funções  
-- Listas  
-- Manipulação de arquivos
+- Uso de `print` e `input`
+- Estruturas condicionais (`if`, `match`)
+- Estruturas de repetição (`for`, `while`)
+- Criação de funções básicas
+- Uso de listas
+- Importação de arquivos (`import`)
+- Leitura e escrita em arquivos `.txt`
+- Criações de classes e uso de funções
 - Manipulação de String
 - Python com DataBase
-- Uso de Classes
-- Organização de código
 - Tkinter
 
 ---
@@ -108,14 +111,15 @@ Estudos voltados para construção de base lógica utilizando Python.
 Estudos focados em estruturação de bancos de dados e relacionamento entre tabelas.
 
 **Conteúdos trabalhados:**
-- Criação de tabelas  
-- `PRIMARY KEY` e `FOREIGN KEY`  
-- Relacionamentos entre entidades  
-- Restrições (`NOT NULL`, `UNIQUE`, `CHECK`)  
-- Regras de integridade (`ON DELETE`)  
-- Inserção de dados com `INSERT INTO`  
-- Consultas relacionais iniciais  
-
+* Criação de tabelas com `CREATE TABLE`
+* Uso de `PRIMARY KEY` e `FOREIGN KEY`
+* Relacionamentos entre tabelas
+* Tipos de dados (`VARCHAR`, `INT`, `DATE`, `NUMERIC`)
+* Restrições com `NOT NULL`, `UNIQUE` e `CHECK`
+* Inserção de dados com `INSERT INTO`
+* Conceitos iniciais de modelagem relacional
+* Integridade referencial
+* Regras de exclusão com `ON DELETE`
 ---
 
 ## 🧠 Como navegar
