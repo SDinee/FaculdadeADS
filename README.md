@@ -81,7 +81,7 @@ Estudos voltados para construção de base lógica utilizando Python.
 - Criação de funções básicas
 - Uso de listas
 - Importação de arquivos (`import`)
-- Leitura e escrita em arquivos `.txt`
+- Minipulação de arquivos
 - Criações de classes e uso de funções
 - Manipulação de String
 - Python com DataBase
