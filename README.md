@@ -116,10 +116,6 @@ Estudos focados em estruturação de bancos de dados e relacionamento entre tabe
 - Inserção de dados com `INSERT INTO`  
 - Consultas relacionais iniciais  
 
-**Práticas realizadas:**
-- Sistema simples de biblioteca  
-- Relacionamento entre livros e empréstimos  
-
 ---
 
 ## 🧠 Como navegar
@@ -128,16 +124,6 @@ Cada pasta contém:
 
 - Projetos práticos em aulas   
 - Um README próprio com explicações detalhadas  
-
----
-
-## 🚀 Evolução
-
-Este repositório está em constante atualização, refletindo:
-
-- Minha evolução técnica  
-- Novos aprendizados  
-- Projetos mais complexos ao longo do tempo  
 
 ---
 
