@@ -92,13 +92,12 @@ Estudos voltados para construção de base lógica utilizando Python.
 - Estruturas condicionais e de repetição  
 - Funções  
 - Listas  
-- Manipulação de arquivos  
+- Manipulação de arquivos
+- Manipulação de String
+- Python com DataBase
 - Uso de Classes
-- Organização de código  
-
-**Práticas:** 
-- Menus interativos  
-- Separação de código em múltiplos arquivos  
+- Organização de código
+- Tkinter
 
 ---
 
