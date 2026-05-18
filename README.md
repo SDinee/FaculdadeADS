@@ -6,15 +6,6 @@ Aqui você encontrará desde fundamentos de programação até aplicações prá
 
 ---
 
-## 🎯 Objetivo
-
-- Consolidar conhecimentos técnicos  
-- Documentar minha evolução na área de tecnologia  
-- Praticar conceitos através de projetos reais  
-- Desenvolver autonomia fora do ambiente acadêmico  
-
----
-
 ## 🗺️ Mapa do Repositório
 
  O conteúdo está organizado por áreas de estudo:
