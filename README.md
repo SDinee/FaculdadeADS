@@ -17,7 +17,9 @@ Aqui você encontrará desde fundamentos de programação até aplicações prá
 
 ## 🗺️ Mapa do Repositório
 
-## O conteúdo está organizado por áreas de estudo:
+ O conteúdo está organizado por áreas de estudo:
+
+ ---
 
 ### 🚀 Carreira Solo
 
