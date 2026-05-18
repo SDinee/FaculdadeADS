@@ -12,9 +12,9 @@ Este diretório contém meus estudos iniciais em Python durante a graduação em
 * Importação de arquivos (`import`)
 * Leitura e escrita em arquivos `.txt`
 * Criações de classes e uso de funções
-- Manipulação de String
-- Python com DataBase
-- Tkinter
+* Manipulação de String
+* Python com DataBase
+* Tkinter
 
 ## 🧪 Práticas realizadas
 
