@@ -120,14 +120,6 @@ Estudos focados em estruturação de bancos de dados e relacionamento entre tabe
 * Conceitos iniciais de modelagem relacional
 * Integridade referencial
 * Regras de exclusão com `ON DELETE`
----
-
-## 🧠 Como navegar
-
-Cada pasta contém:
-
-- Projetos práticos em aulas   
-- Um README próprio com explicações detalhadas  
 
 ---
 
