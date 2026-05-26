@@ -8,4 +8,4 @@ canvas.create_rectangle(50, 20, 150,80, fill="blue")
 canvas.pack()
 
 janela.mainloop()
-messagebox.showinfo("Titulo", "Mensagem para o usuário")
+messagebox.showinfo("Titulo", "Mensagem para o usuário.")
