@@ -1,4 +1,4 @@
-package Java.sla;
+package Java.modacessos;
 
 public class minhaclasse {
     int defaultAtributo = 1; 

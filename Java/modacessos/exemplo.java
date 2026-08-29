@@ -1,4 +1,4 @@
-package Java.sla;
+package Java.modacessos;
 
 public class exemplo {
     public static void main(String[] args) {
