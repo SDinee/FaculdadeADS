@@ -1,6 +1,6 @@
 package Java.heranca;
 
-/*Classe base Pessoa */
+//Classe base Pessoa 
 public class Pessoa {
     // Atributos privados (encapsulamento)
     private String nome;
