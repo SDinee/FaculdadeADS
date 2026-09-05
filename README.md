@@ -9,7 +9,13 @@
 <br>Aqui você encontrará desde fundamentos de programação até aplicações práticas, organizadas de forma progressiva para acompanhar minha evolução como desenvolvedor.
 </p>
 
+## Observações
 
+Este repositório representa:
+
+- Meus estudos durante o curso de ADS
+- Base adquirida dentro da faculdade
+- Conteúdos vistos em aulas
 
 ## Desenvolvimento Web
 
@@ -20,13 +26,9 @@
 
 <img width="150" src="https://skillicons.dev/icons?i=java,python,c" />
 
-## Observações
+## Banco de dados
 
-Este repositório representa:
-
-- Meus estudos durante o curso de ADS
-- Base adquirida dentro da faculdade
-- Conteúdos vistos em aulas
+<img width="150" src="https://skillicons.dev/icons?i=postgresql,sql" />
 
 ## 👨‍💻 Autor
 
