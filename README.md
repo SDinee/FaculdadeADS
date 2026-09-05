@@ -1,96 +1,24 @@
-# 📚 Repositório de Estudos — Análise e Desenvolvimento de Sistemas
+# Análise e Desenvolvimento de Sistemas
 
-Este repositório reúne minha jornada de aprendizado em tecnologia, com projetos, práticas e estudos desenvolvidos durante a graduação e também de forma independente.
+<p align="center">
+  <a href="https://github.com/SDinee/FaculdadeADS/commits/main"><img src="https://img.shields.io/github/last-commit/SDinee/FaculdadeADS?style=for-the-badge&color=green" alt="Last Commit"></a>
+  <img src="https://img.shields.io/github/repo-size/SDinee/FaculdadeADS?style=for-the-badge&color=orange" alt="Repo Size">
+</p>
 
-Aqui você encontrará desde fundamentos de programação até aplicações práticas, organizadas de forma progressiva para acompanhar minha evolução como desenvolvedor.
+<p align="center">Este repositório reúne minha jornada de aprendizado em tecnologia, com projetos, práticas e estudos desenvolvidos durante a graduação e também de forma independente.
+<br>Aqui você encontrará desde fundamentos de programação até aplicações práticas, organizadas de forma progressiva para acompanhar minha evolução como desenvolvedor.
+</p>
 
----
 
-### 🌐 Desenvolvimento Web
 
-📁 Projetos com HTML e CSS  
+## Desenvolvimento Web
 
-Área focada nos fundamentos do desenvolvimento web e evolução prática de projetos.
+<img width="150" src="https://skillicons.dev/icons?i=html,css,php,js" />
 
-**Projetos incluídos:**
 
-- **Primeiro Site (HTML + CSS)**  
-  Projeto inicial que evoluiu de HTML puro para uma interface estilizada com CSS.
+## ⚙️ Programação
 
-- **Pet Show (HTML + CSS)**  
-  Projeto mais estruturado, com múltiplas páginas, navegação e aplicação de efeitos visuais.
-
-**Principais aprendizados:**
-- Estruturação de páginas  
-- Estilização com CSS  
-- Layout com Flexbox  
-- Organização visual e experiência do usuário  
-
----
-
-### ⚙️ Linguagem C
-
-📁 Fundamentos e estruturas de dados  
-
-Base sólida em lógica de programação utilizando C.
-
-**Conteúdos trabalhados:**
-- Estruturas condicionais (`if`, `switch`)
-- Estruturas de repetição (`for`, `while`)
-- Vetores (arrays)
-- Funções básicas 
-
-**Introdução a estruturas de dados:**
-- filas 
-- Listas
-- Pilhas
-- Uso de `struct`
-- Uso de Árvore
-- Algoritmos de Ordenação
-
-> ⚠️ Estudo ainda em nível fundamental, com evolução planejada.
-
----
-
-### 🐍 Python
-
-📁 Lógica de programação e fundamentos  
-
-Estudos voltados para construção de base lógica utilizando Python.
-
-**Conteúdos trabalhados:**
-- Uso de `print` e `input`
-- Estruturas condicionais (`if`, `match`)
-- Estruturas de repetição (`for`, `while`)
-- Criação de funções básicas
-- Uso de listas
-- Importação de arquivos (`import`)
-- Minipulação de arquivos
-- Criações de classes e uso de funções
-- Manipulação de String
-- Python com DataBase
-- Tkinter
-
----
-
-### 🗄️ SQL
-
-📁 Modelagem e banco de dados relacionais  
-
-Estudos focados em estruturação de bancos de dados e relacionamento entre tabelas.
-
-**Conteúdos trabalhados:**
-* Criação de tabelas com `CREATE TABLE`
-* Uso de `PRIMARY KEY` e `FOREIGN KEY`
-* Relacionamentos entre tabelas
-* Tipos de dados (`VARCHAR`, `INT`, `DATE`, `NUMERIC`)
-* Restrições com `NOT NULL`, `UNIQUE` e `CHECK`
-* Inserção de dados com `INSERT INTO`
-* Conceitos iniciais de modelagem relacional
-* Integridade referencial
-* Regras de exclusão com `ON DELETE`
-
----
+<img width="150" src="https://skillicons.dev/icons?i=java,python,c" />
 
 ## 📌 Observações
 
