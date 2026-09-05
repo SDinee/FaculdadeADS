@@ -1,4 +1,4 @@
-# Análise e Desenvolvimento de Sistemas
+<h1 align="center"> Análise e Desenvolvimento de Sistemas </h1>
 
 <p align="center">
   <a href="https://github.com/SDinee/FaculdadeADS/commits/main"><img src="https://img.shields.io/github/last-commit/SDinee/FaculdadeADS?style=for-the-badge&color=green" alt="Last Commit"></a>
@@ -16,22 +16,25 @@
 <img width="150" src="https://skillicons.dev/icons?i=html,css,php,js" />
 
 
-## ⚙️ Programação
+## Programação
 
 <img width="150" src="https://skillicons.dev/icons?i=java,python,c" />
 
-## 📌 Observações
+## Observações
 
 Este repositório representa:
 
-- Minha base na área de tecnologia  
-- Meu processo de aprendizado contínuo  
-- Minha transição de iniciante para níveis mais avançados  
-
-Alguns conteúdos ainda estão em desenvolvimento, pois fazem parte do meu processo de evolução.
-
----
+- Meus estudos durante o curso de ADS
+- Base adquirida dentro da faculdade
+- Conteúdos vistos em aulas
 
 ## 👨‍💻 Autor
 
-**Sidne**
+<p align="center">
+  <img src="https://github.com/SDinee.png" width="100px;" alt="Imagem de perfil do github"/><br>
+  <strong><b>Sidne Cabo</b></strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidne-cabo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
