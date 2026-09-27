@@ -1,5 +1,11 @@
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
-vendas = pd.read_excel("Produtos.xlsx")
+load_dotenv()
+
+diretorio = os.getenv("DIRETORIO")
+
+vendas = pd.read_excel(diretorio + "vendas.xlsx")
 
 print(vendas)
