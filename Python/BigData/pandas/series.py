@@ -12,3 +12,4 @@ dados = {
 df = pd.DataFrame(dados)
 
 print(f"\nDataFrame: \n {df}")
+print(f" \nPrimeira linha do DataFrame: \n {df.head(1)}")
